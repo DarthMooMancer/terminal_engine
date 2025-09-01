@@ -1,1 +1,0 @@
-/usr/lib/llvm/20/bin/c++ CMakeFiles/breakout.dir/src/main.cpp.o CMakeFiles/breakout.dir/src/input.cpp.o CMakeFiles/breakout.dir/src/window.cpp.o -o breakout  /usr/lib64/libncurses.so /usr/lib64/libtinfo.so /usr/lib64/libform.so
